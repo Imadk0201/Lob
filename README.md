@@ -1,6 +1,5 @@
-# Coding-Challenge
+# Lob Demo
 
-Lob Demo
 
 What Is This?
 -------------
