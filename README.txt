@@ -1,6 +1,6 @@
 Copyright (c) 2017, Contributors
 
-Lob Demo
+Lob
 
 What Is This?
 -------------
